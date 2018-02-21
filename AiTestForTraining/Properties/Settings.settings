@@ -1,7 +1,24 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AiTestForTraining.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">azG7z7rmnYpISo7X1NDi1FDN</Value>
+    </Setting>
+    <Setting Name="SecretKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LdbWt4SaqQgjaToa4uZYfbT2w8bTsdXr</Value>
+    </Setting>
+    <Setting Name="ConnectString" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TextTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TextColumn" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OverLoad" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

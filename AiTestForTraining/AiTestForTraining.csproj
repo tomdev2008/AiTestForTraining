@@ -93,5 +93,11 @@
   <ItemGroup>
     <None Include="Resources\微信图片_20180221163034.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\微信图片_20180221171916.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\微信图片_20180221171945.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,5 +1,5 @@
 # AiTestForTraining
-用于《途虎与AI》内部培训的测试案例
+（脱敏，不涉密）用于《途虎与AI》内部培训的测试案例
 
 基础SDK采用百度AIP：https://github.com/Baidu-AIP
 

@@ -25,7 +25,7 @@ namespace AiTestForTraining.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("azG7z7rmnYpISo7X1NDi1FDN")]
+        [global::System.Configuration.DefaultSettingValueAttribute("qqKBvP6rgfooT6KhTE6nAdLb")]
         public string AppKey {
             get {
                 return ((string)(this["AppKey"]));
@@ -37,7 +37,7 @@ namespace AiTestForTraining.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("LdbWt4SaqQgjaToa4uZYfbT2w8bTsdXr")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Z7ChdikVdDfP2NlKNQ6C5Fv4sqzaB9zI")]
         public string SecretKey {
             get {
                 return ((string)(this["SecretKey"]));

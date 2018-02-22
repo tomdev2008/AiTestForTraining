@@ -3,10 +3,10 @@
   <Profiles />
   <Settings>
     <Setting Name="AppKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)">azG7z7rmnYpISo7X1NDi1FDN</Value>
+      <Value Profile="(Default)">qqKBvP6rgfooT6KhTE6nAdLb</Value>
     </Setting>
     <Setting Name="SecretKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)">LdbWt4SaqQgjaToa4uZYfbT2w8bTsdXr</Value>
+      <Value Profile="(Default)">Z7ChdikVdDfP2NlKNQ6C5Fv4sqzaB9zI</Value>
     </Setting>
     <Setting Name="ConnectString" Type="System.String" Scope="User">
       <Value Profile="(Default)" />

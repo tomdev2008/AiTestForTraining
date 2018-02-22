@@ -30,8 +30,29 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.labInfoWarning = new System.Windows.Forms.LinkLabel();
+            this.labinfo = new System.Windows.Forms.LinkLabel();
+            this.label8 = new System.Windows.Forms.Label();
+            this.labBatchCount = new System.Windows.Forms.Label();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.btnSentimentBatch = new System.Windows.Forms.Button();
+            this.btnSentimentSingle = new System.Windows.Forms.Button();
+            this.txtSentimentOutput = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.txtSentimentInput = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.btnTopicBatch = new System.Windows.Forms.Button();
+            this.btnTopicSingle = new System.Windows.Forms.Button();
+            this.txtTopicResult = new System.Windows.Forms.TextBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.txtTestTopic = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.txtTopic = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.txtOverLoad = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
             this.btnSaveSettings = new System.Windows.Forms.Button();
             this.txtColumn = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -43,30 +64,28 @@
             this.label3 = new System.Windows.Forms.Label();
             this.txtAppKey = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.txtSentimentInput = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.txtSentimentOutput = new System.Windows.Forms.TextBox();
-            this.btnSentimentSingle = new System.Windows.Forms.Button();
-            this.btnSentimentBatch = new System.Windows.Forms.Button();
-            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.btnCar = new System.Windows.Forms.Button();
+            this.label13 = new System.Windows.Forms.Label();
+            this.txtCarResult = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.labBatchCount = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.labinfo = new System.Windows.Forms.LinkLabel();
-            this.labInfoWarning = new System.Windows.Forms.LinkLabel();
-            this.txtOverLoad = new System.Windows.Forms.TextBox();
-            this.label9 = new System.Windows.Forms.Label();
+            this.imgCar = new System.Windows.Forms.PictureBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            this.tabPage3.SuspendLayout();
             this.tabPage2.SuspendLayout();
+            this.tabPage4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.imgCar)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage3);
+            this.tabControl1.Controls.Add(this.tabPage4);
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
@@ -98,6 +117,114 @@
             this.tabPage1.Text = "情感倾向分析";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // labInfoWarning
+            // 
+            this.labInfoWarning.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.labInfoWarning.AutoSize = true;
+            this.labInfoWarning.Location = new System.Drawing.Point(639, 395);
+            this.labInfoWarning.Name = "labInfoWarning";
+            this.labInfoWarning.Size = new System.Drawing.Size(65, 12);
+            this.labInfoWarning.TabIndex = 8;
+            this.labInfoWarning.TabStop = true;
+            this.labInfoWarning.Text = "超限的结果";
+            this.labInfoWarning.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.labInfoWarning_LinkClicked);
+            // 
+            // labinfo
+            // 
+            this.labinfo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.labinfo.AutoSize = true;
+            this.labinfo.Location = new System.Drawing.Point(639, 367);
+            this.labinfo.Name = "labinfo";
+            this.labinfo.Size = new System.Drawing.Size(77, 12);
+            this.labinfo.TabIndex = 8;
+            this.labinfo.TabStop = true;
+            this.labinfo.Text = "批量处理结果";
+            this.labinfo.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.labinfo_LinkClicked);
+            // 
+            // label8
+            // 
+            this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(436, 383);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(77, 12);
+            this.label8.TabIndex = 7;
+            this.label8.Text = "已批量处理：";
+            // 
+            // labBatchCount
+            // 
+            this.labBatchCount.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.labBatchCount.AutoSize = true;
+            this.labBatchCount.Location = new System.Drawing.Point(519, 383);
+            this.labBatchCount.Name = "labBatchCount";
+            this.labBatchCount.Size = new System.Drawing.Size(0, 12);
+            this.labBatchCount.TabIndex = 6;
+            // 
+            // progressBar1
+            // 
+            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.progressBar1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.progressBar1.Location = new System.Drawing.Point(145, 290);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(437, 23);
+            this.progressBar1.TabIndex = 3;
+            this.progressBar1.Value = 50;
+            // 
+            // btnSentimentBatch
+            // 
+            this.btnSentimentBatch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSentimentBatch.Location = new System.Drawing.Point(468, 332);
+            this.btnSentimentBatch.Name = "btnSentimentBatch";
+            this.btnSentimentBatch.Size = new System.Drawing.Size(141, 48);
+            this.btnSentimentBatch.TabIndex = 2;
+            this.btnSentimentBatch.Text = "批量测试（根据指定的数据库批量分析）";
+            this.btnSentimentBatch.UseVisualStyleBackColor = true;
+            this.btnSentimentBatch.Click += new System.EventHandler(this.btnSentimentBatch_Click);
+            // 
+            // btnSentimentSingle
+            // 
+            this.btnSentimentSingle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnSentimentSingle.Location = new System.Drawing.Point(77, 332);
+            this.btnSentimentSingle.Name = "btnSentimentSingle";
+            this.btnSentimentSingle.Size = new System.Drawing.Size(154, 48);
+            this.btnSentimentSingle.TabIndex = 2;
+            this.btnSentimentSingle.Text = "单句测试";
+            this.btnSentimentSingle.UseVisualStyleBackColor = true;
+            this.btnSentimentSingle.Click += new System.EventHandler(this.btnSentimentSingle_Click);
+            // 
+            // txtSentimentOutput
+            // 
+            this.txtSentimentOutput.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtSentimentOutput.Location = new System.Drawing.Point(77, 150);
+            this.txtSentimentOutput.Multiline = true;
+            this.txtSentimentOutput.Name = "txtSentimentOutput";
+            this.txtSentimentOutput.Size = new System.Drawing.Size(532, 127);
+            this.txtSentimentOutput.TabIndex = 1;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(8, 160);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(53, 12);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "测试结果";
+            // 
+            // txtSentimentInput
+            // 
+            this.txtSentimentInput.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtSentimentInput.Location = new System.Drawing.Point(77, 7);
+            this.txtSentimentInput.Multiline = true;
+            this.txtSentimentInput.Name = "txtSentimentInput";
+            this.txtSentimentInput.Size = new System.Drawing.Size(532, 127);
+            this.txtSentimentInput.TabIndex = 1;
+            this.txtSentimentInput.Text = "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货" +
+    "在的呢，有什么可以帮您的吗？ ";
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -106,6 +233,105 @@
             this.label1.Size = new System.Drawing.Size(41, 12);
             this.label1.TabIndex = 0;
             this.label1.Text = "测试语";
+            // 
+            // tabPage3
+            // 
+            this.tabPage3.Controls.Add(this.btnTopicBatch);
+            this.tabPage3.Controls.Add(this.btnTopicSingle);
+            this.tabPage3.Controls.Add(this.txtTopicResult);
+            this.tabPage3.Controls.Add(this.label12);
+            this.tabPage3.Controls.Add(this.txtTestTopic);
+            this.tabPage3.Controls.Add(this.label11);
+            this.tabPage3.Controls.Add(this.txtTopic);
+            this.tabPage3.Controls.Add(this.label10);
+            this.tabPage3.Location = new System.Drawing.Point(4, 22);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage3.Size = new System.Drawing.Size(721, 412);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "关键话题分析";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // btnTopicBatch
+            // 
+            this.btnTopicBatch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnTopicBatch.Location = new System.Drawing.Point(468, 284);
+            this.btnTopicBatch.Name = "btnTopicBatch";
+            this.btnTopicBatch.Size = new System.Drawing.Size(141, 48);
+            this.btnTopicBatch.TabIndex = 8;
+            this.btnTopicBatch.Text = "批量测试（根据指定的数据库批量分析）";
+            this.btnTopicBatch.UseVisualStyleBackColor = true;
+            // 
+            // btnTopicSingle
+            // 
+            this.btnTopicSingle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnTopicSingle.Location = new System.Drawing.Point(77, 284);
+            this.btnTopicSingle.Name = "btnTopicSingle";
+            this.btnTopicSingle.Size = new System.Drawing.Size(154, 48);
+            this.btnTopicSingle.TabIndex = 9;
+            this.btnTopicSingle.Text = "单句测试";
+            this.btnTopicSingle.UseVisualStyleBackColor = true;
+            this.btnTopicSingle.Click += new System.EventHandler(this.btnTopicSingle_Click);
+            // 
+            // txtTopicResult
+            // 
+            this.txtTopicResult.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtTopicResult.Location = new System.Drawing.Point(77, 135);
+            this.txtTopicResult.Multiline = true;
+            this.txtTopicResult.Name = "txtTopicResult";
+            this.txtTopicResult.Size = new System.Drawing.Size(532, 127);
+            this.txtTopicResult.TabIndex = 7;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(8, 138);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(53, 12);
+            this.label12.TabIndex = 6;
+            this.label12.Text = "测试结果";
+            // 
+            // txtTestTopic
+            // 
+            this.txtTestTopic.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtTestTopic.Location = new System.Drawing.Point(77, 49);
+            this.txtTestTopic.Multiline = true;
+            this.txtTestTopic.Name = "txtTestTopic";
+            this.txtTestTopic.Size = new System.Drawing.Size(538, 54);
+            this.txtTestTopic.TabIndex = 5;
+            this.txtTestTopic.Text = "唉，我买的轮胎怎么还没走呢？";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(8, 59);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(65, 12);
+            this.label11.TabIndex = 4;
+            this.label11.Text = "待检测语句";
+            // 
+            // txtTopic
+            // 
+            this.txtTopic.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtTopic.Location = new System.Drawing.Point(77, 6);
+            this.txtTopic.Multiline = true;
+            this.txtTopic.Name = "txtTopic";
+            this.txtTopic.Size = new System.Drawing.Size(538, 37);
+            this.txtTopic.TabIndex = 3;
+            this.txtTopic.Text = "轮胎未发货";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(8, 16);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(29, 12);
+            this.label10.TabIndex = 2;
+            this.label10.Text = "话题";
             // 
             // tabPage2
             // 
@@ -129,6 +355,23 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "设置";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // txtOverLoad
+            // 
+            this.txtOverLoad.Location = new System.Drawing.Point(107, 151);
+            this.txtOverLoad.Name = "txtOverLoad";
+            this.txtOverLoad.Size = new System.Drawing.Size(297, 21);
+            this.txtOverLoad.TabIndex = 4;
+            this.txtOverLoad.Text = "20";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(18, 154);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(77, 12);
+            this.label9.TabIndex = 3;
+            this.label9.Text = "情感超限阈值";
             // 
             // btnSaveSettings
             // 
@@ -220,64 +463,54 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "AppKey";
             // 
-            // txtSentimentInput
+            // tabPage4
             // 
-            this.txtSentimentInput.Location = new System.Drawing.Point(77, 7);
-            this.txtSentimentInput.Multiline = true;
-            this.txtSentimentInput.Name = "txtSentimentInput";
-            this.txtSentimentInput.Size = new System.Drawing.Size(532, 127);
-            this.txtSentimentInput.TabIndex = 1;
-            this.txtSentimentInput.Text = "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货" +
-    "在的呢，有什么可以帮您的吗？ ";
+            this.tabPage4.Controls.Add(this.txtCarResult);
+            this.tabPage4.Controls.Add(this.label13);
+            this.tabPage4.Controls.Add(this.btnCar);
+            this.tabPage4.Controls.Add(this.imgCar);
+            this.tabPage4.Location = new System.Drawing.Point(4, 22);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage4.Size = new System.Drawing.Size(721, 412);
+            this.tabPage4.TabIndex = 3;
+            this.tabPage4.Text = "车型识别";
+            this.tabPage4.UseVisualStyleBackColor = true;
             // 
-            // label7
+            // btnCar
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(8, 160);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(53, 12);
-            this.label7.TabIndex = 0;
-            this.label7.Text = "测试结果";
+            this.btnCar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnCar.Location = new System.Drawing.Point(25, 333);
+            this.btnCar.Name = "btnCar";
+            this.btnCar.Size = new System.Drawing.Size(252, 52);
+            this.btnCar.TabIndex = 1;
+            this.btnCar.Text = "选择图片识别";
+            this.btnCar.UseVisualStyleBackColor = true;
+            this.btnCar.Click += new System.EventHandler(this.btnCar_Click);
             // 
-            // txtSentimentOutput
+            // label13
             // 
-            this.txtSentimentOutput.Location = new System.Drawing.Point(77, 150);
-            this.txtSentimentOutput.Multiline = true;
-            this.txtSentimentOutput.Name = "txtSentimentOutput";
-            this.txtSentimentOutput.Size = new System.Drawing.Size(532, 127);
-            this.txtSentimentOutput.TabIndex = 1;
+            this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(443, 333);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(65, 12);
+            this.label13.TabIndex = 2;
+            this.label13.Text = "识别结果：";
             // 
-            // btnSentimentSingle
+            // txtCarResult
             // 
-            this.btnSentimentSingle.Location = new System.Drawing.Point(77, 332);
-            this.btnSentimentSingle.Name = "btnSentimentSingle";
-            this.btnSentimentSingle.Size = new System.Drawing.Size(154, 48);
-            this.btnSentimentSingle.TabIndex = 2;
-            this.btnSentimentSingle.Text = "单句测试";
-            this.btnSentimentSingle.UseVisualStyleBackColor = true;
-            this.btnSentimentSingle.Click += new System.EventHandler(this.btnSentimentSingle_Click);
-            // 
-            // btnSentimentBatch
-            // 
-            this.btnSentimentBatch.Location = new System.Drawing.Point(468, 332);
-            this.btnSentimentBatch.Name = "btnSentimentBatch";
-            this.btnSentimentBatch.Size = new System.Drawing.Size(141, 48);
-            this.btnSentimentBatch.TabIndex = 2;
-            this.btnSentimentBatch.Text = "批量测试（根据指定的数据库批量分析）";
-            this.btnSentimentBatch.UseVisualStyleBackColor = true;
-            this.btnSentimentBatch.Click += new System.EventHandler(this.btnSentimentBatch_Click);
-            // 
-            // progressBar1
-            // 
-            this.progressBar1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.progressBar1.Location = new System.Drawing.Point(145, 290);
-            this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(437, 23);
-            this.progressBar1.TabIndex = 3;
-            this.progressBar1.Value = 50;
+            this.txtCarResult.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtCarResult.Location = new System.Drawing.Point(514, 3);
+            this.txtCarResult.Multiline = true;
+            this.txtCarResult.Name = "txtCarResult";
+            this.txtCarResult.Size = new System.Drawing.Size(207, 401);
+            this.txtCarResult.TabIndex = 3;
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.pictureBox1.Image = global::AiTestForTraining.Properties.Resources.微信图片_20180221163013;
             this.pictureBox1.Location = new System.Drawing.Point(-4, 269);
             this.pictureBox1.Name = "pictureBox1";
@@ -287,6 +520,7 @@
             // 
             // pictureBox2
             // 
+            this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox2.Image = global::AiTestForTraining.Properties.Resources.微信图片_20180221163034;
             this.pictureBox2.Location = new System.Drawing.Point(584, 272);
             this.pictureBox2.Name = "pictureBox2";
@@ -294,61 +528,17 @@
             this.pictureBox2.TabIndex = 5;
             this.pictureBox2.TabStop = false;
             // 
-            // labBatchCount
+            // imgCar
             // 
-            this.labBatchCount.AutoSize = true;
-            this.labBatchCount.Location = new System.Drawing.Point(519, 383);
-            this.labBatchCount.Name = "labBatchCount";
-            this.labBatchCount.Size = new System.Drawing.Size(0, 12);
-            this.labBatchCount.TabIndex = 6;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(436, 383);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(77, 12);
-            this.label8.TabIndex = 7;
-            this.label8.Text = "已批量处理：";
-            // 
-            // labinfo
-            // 
-            this.labinfo.AutoSize = true;
-            this.labinfo.Location = new System.Drawing.Point(639, 367);
-            this.labinfo.Name = "labinfo";
-            this.labinfo.Size = new System.Drawing.Size(77, 12);
-            this.labinfo.TabIndex = 8;
-            this.labinfo.TabStop = true;
-            this.labinfo.Text = "批量处理结果";
-            this.labinfo.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.labinfo_LinkClicked);
-            // 
-            // labInfoWarning
-            // 
-            this.labInfoWarning.AutoSize = true;
-            this.labInfoWarning.Location = new System.Drawing.Point(639, 395);
-            this.labInfoWarning.Name = "labInfoWarning";
-            this.labInfoWarning.Size = new System.Drawing.Size(65, 12);
-            this.labInfoWarning.TabIndex = 8;
-            this.labInfoWarning.TabStop = true;
-            this.labInfoWarning.Text = "超限的结果";
-            this.labInfoWarning.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.labInfoWarning_LinkClicked);
-            // 
-            // txtOverLoad
-            // 
-            this.txtOverLoad.Location = new System.Drawing.Point(107, 151);
-            this.txtOverLoad.Name = "txtOverLoad";
-            this.txtOverLoad.Size = new System.Drawing.Size(297, 21);
-            this.txtOverLoad.TabIndex = 4;
-            this.txtOverLoad.Text = "20";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(18, 154);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(77, 12);
-            this.label9.TabIndex = 3;
-            this.label9.Text = "情感超限阈值";
+            this.imgCar.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.imgCar.Image = global::AiTestForTraining.Properties.Resources._1__3_;
+            this.imgCar.Location = new System.Drawing.Point(3, 3);
+            this.imgCar.Name = "imgCar";
+            this.imgCar.Size = new System.Drawing.Size(505, 324);
+            this.imgCar.TabIndex = 0;
+            this.imgCar.TabStop = false;
             // 
             // Form1
             // 
@@ -362,10 +552,15 @@
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
+            this.tabPage3.ResumeLayout(false);
+            this.tabPage3.PerformLayout();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
+            this.tabPage4.ResumeLayout(false);
+            this.tabPage4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.imgCar)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -401,6 +596,20 @@
         private System.Windows.Forms.LinkLabel labinfo;
         private System.Windows.Forms.TextBox txtOverLoad;
         private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TabPage tabPage3;
+        private System.Windows.Forms.Button btnTopicBatch;
+        private System.Windows.Forms.Button btnTopicSingle;
+        private System.Windows.Forms.TextBox txtTopicResult;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.TextBox txtTestTopic;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.TextBox txtTopic;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TabPage tabPage4;
+        private System.Windows.Forms.TextBox txtCarResult;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Button btnCar;
+        private System.Windows.Forms.PictureBox imgCar;
     }
 }
 

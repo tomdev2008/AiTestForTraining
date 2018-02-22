@@ -63,6 +63,16 @@ namespace AiTestForTraining.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap _1__3_ {
+            get {
+                object obj = ResourceManager.GetObject("1 (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 微信图片_20180221163013 {
             get {
                 object obj = ResourceManager.GetObject("微信图片_20180221163013", resourceCulture);

@@ -9,7 +9,7 @@
 
 ![预览1](https://github.com/unilog/AiTestForTraining/blob/master/AiTestForTraining/Resources/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180221171916.png)
 ![预览2](https://github.com/unilog/AiTestForTraining/blob/master/AiTestForTraining/Resources/topic.png)
-![预览2](https://github.com/unilog/AiTestForTraining/blob/master/AiTestForTraining/Resources/topic.png)
+![预览2](https://github.com/unilog/AiTestForTraining/blob/master/AiTestForTraining/Resources/car.png)
 ![预览2](https://github.com/unilog/AiTestForTraining/blob/master/AiTestForTraining/Resources/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180221171945.png)
 
 

@@ -41,6 +41,8 @@
             this.label7 = new System.Windows.Forms.Label();
             this.txtSentimentInput = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.btnTopicBatch = new System.Windows.Forms.Button();
             this.btnTopicSingle = new System.Windows.Forms.Button();
@@ -50,6 +52,11 @@
             this.label11 = new System.Windows.Forms.Label();
             this.txtTopic = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.txtCarResult = new System.Windows.Forms.TextBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.btnCar = new System.Windows.Forms.Button();
+            this.imgCar = new System.Windows.Forms.PictureBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.txtOverLoad = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
@@ -64,21 +71,23 @@
             this.label3 = new System.Windows.Forms.Label();
             this.txtAppKey = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.btnCar = new System.Windows.Forms.Button();
-            this.label13 = new System.Windows.Forms.Label();
-            this.txtCarResult = new System.Windows.Forms.TextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.imgCar = new System.Windows.Forms.PictureBox();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
+            this.label14 = new System.Windows.Forms.Label();
+            this.labCountTopic = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.txtTopicLimit = new System.Windows.Forms.TextBox();
+            this.labCatch = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.txtTestTik = new System.Windows.Forms.TextBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
-            this.tabPage3.SuspendLayout();
-            this.tabPage2.SuspendLayout();
-            this.tabPage4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.tabPage3.SuspendLayout();
+            this.tabPage4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.imgCar)).BeginInit();
+            this.tabPage2.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -145,7 +154,7 @@
             // 
             this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(436, 383);
+            this.label8.Location = new System.Drawing.Point(427, 383);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(77, 12);
             this.label8.TabIndex = 7;
@@ -198,6 +207,7 @@
             this.txtSentimentOutput.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtSentimentOutput.Font = new System.Drawing.Font("微软雅黑", 21.75F);
             this.txtSentimentOutput.Location = new System.Drawing.Point(77, 150);
             this.txtSentimentOutput.Multiline = true;
             this.txtSentimentOutput.Name = "txtSentimentOutput";
@@ -217,6 +227,7 @@
             // 
             this.txtSentimentInput.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtSentimentInput.Font = new System.Drawing.Font("微软雅黑", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.txtSentimentInput.Location = new System.Drawing.Point(77, 7);
             this.txtSentimentInput.Multiline = true;
             this.txtSentimentInput.Name = "txtSentimentInput";
@@ -234,11 +245,38 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "测试语";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.pictureBox1.Image = global::AiTestForTraining.Properties.Resources.微信图片_20180221163013;
+            this.pictureBox1.Location = new System.Drawing.Point(-4, 269);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(174, 79);
+            this.pictureBox1.TabIndex = 4;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox2.Image = global::AiTestForTraining.Properties.Resources.微信图片_20180221163034;
+            this.pictureBox2.Location = new System.Drawing.Point(584, 269);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(137, 76);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.pictureBox2.TabIndex = 5;
+            this.pictureBox2.TabStop = false;
+            // 
             // tabPage3
             // 
+            this.tabPage3.Controls.Add(this.linkLabel1);
+            this.tabPage3.Controls.Add(this.linkLabel2);
+            this.tabPage3.Controls.Add(this.label14);
+            this.tabPage3.Controls.Add(this.labCountTopic);
             this.tabPage3.Controls.Add(this.btnTopicBatch);
             this.tabPage3.Controls.Add(this.btnTopicSingle);
             this.tabPage3.Controls.Add(this.txtTopicResult);
+            this.tabPage3.Controls.Add(this.labCatch);
             this.tabPage3.Controls.Add(this.label12);
             this.tabPage3.Controls.Add(this.txtTestTopic);
             this.tabPage3.Controls.Add(this.label11);
@@ -261,6 +299,7 @@
             this.btnTopicBatch.TabIndex = 8;
             this.btnTopicBatch.Text = "批量测试（根据指定的数据库批量分析）";
             this.btnTopicBatch.UseVisualStyleBackColor = true;
+            this.btnTopicBatch.Click += new System.EventHandler(this.btnTopicBatch_Click);
             // 
             // btnTopicSingle
             // 
@@ -278,6 +317,7 @@
             this.txtTopicResult.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtTopicResult.Font = new System.Drawing.Font("微软雅黑", 21.75F);
             this.txtTopicResult.Location = new System.Drawing.Point(77, 135);
             this.txtTopicResult.Multiline = true;
             this.txtTopicResult.Name = "txtTopicResult";
@@ -297,6 +337,7 @@
             // 
             this.txtTestTopic.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtTestTopic.Font = new System.Drawing.Font("微软雅黑", 21.75F);
             this.txtTestTopic.Location = new System.Drawing.Point(77, 49);
             this.txtTestTopic.Multiline = true;
             this.txtTestTopic.Name = "txtTestTopic";
@@ -317,6 +358,7 @@
             // 
             this.txtTopic.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtTopic.Font = new System.Drawing.Font("微软雅黑", 21.75F);
             this.txtTopic.Location = new System.Drawing.Point(77, 6);
             this.txtTopic.Multiline = true;
             this.txtTopic.Name = "txtTopic";
@@ -333,9 +375,71 @@
             this.label10.TabIndex = 2;
             this.label10.Text = "话题";
             // 
+            // tabPage4
+            // 
+            this.tabPage4.Controls.Add(this.txtCarResult);
+            this.tabPage4.Controls.Add(this.label13);
+            this.tabPage4.Controls.Add(this.btnCar);
+            this.tabPage4.Controls.Add(this.imgCar);
+            this.tabPage4.Location = new System.Drawing.Point(4, 22);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage4.Size = new System.Drawing.Size(721, 412);
+            this.tabPage4.TabIndex = 3;
+            this.tabPage4.Text = "车型识别";
+            this.tabPage4.UseVisualStyleBackColor = true;
+            // 
+            // txtCarResult
+            // 
+            this.txtCarResult.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtCarResult.Font = new System.Drawing.Font("微软雅黑", 21.75F);
+            this.txtCarResult.Location = new System.Drawing.Point(514, 3);
+            this.txtCarResult.Multiline = true;
+            this.txtCarResult.Name = "txtCarResult";
+            this.txtCarResult.Size = new System.Drawing.Size(207, 401);
+            this.txtCarResult.TabIndex = 3;
+            // 
+            // label13
+            // 
+            this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(443, 333);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(65, 12);
+            this.label13.TabIndex = 2;
+            this.label13.Text = "识别结果：";
+            // 
+            // btnCar
+            // 
+            this.btnCar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnCar.Location = new System.Drawing.Point(25, 333);
+            this.btnCar.Name = "btnCar";
+            this.btnCar.Size = new System.Drawing.Size(252, 52);
+            this.btnCar.TabIndex = 1;
+            this.btnCar.Text = "选择图片识别";
+            this.btnCar.UseVisualStyleBackColor = true;
+            this.btnCar.Click += new System.EventHandler(this.btnCar_Click);
+            // 
+            // imgCar
+            // 
+            this.imgCar.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.imgCar.Image = global::AiTestForTraining.Properties.Resources._1__3_;
+            this.imgCar.Location = new System.Drawing.Point(3, 3);
+            this.imgCar.Name = "imgCar";
+            this.imgCar.Size = new System.Drawing.Size(505, 324);
+            this.imgCar.TabIndex = 0;
+            this.imgCar.TabStop = false;
+            // 
             // tabPage2
             // 
+            this.tabPage2.Controls.Add(this.txtTestTik);
+            this.tabPage2.Controls.Add(this.txtTopicLimit);
+            this.tabPage2.Controls.Add(this.label16);
             this.tabPage2.Controls.Add(this.txtOverLoad);
+            this.tabPage2.Controls.Add(this.label15);
             this.tabPage2.Controls.Add(this.label9);
             this.tabPage2.Controls.Add(this.btnSaveSettings);
             this.tabPage2.Controls.Add(this.txtColumn);
@@ -375,7 +479,7 @@
             // 
             // btnSaveSettings
             // 
-            this.btnSaveSettings.Location = new System.Drawing.Point(107, 178);
+            this.btnSaveSettings.Location = new System.Drawing.Point(107, 245);
             this.btnSaveSettings.Name = "btnSaveSettings";
             this.btnSaveSettings.Size = new System.Drawing.Size(153, 27);
             this.btnSaveSettings.TabIndex = 2;
@@ -389,6 +493,7 @@
             this.txtColumn.Name = "txtColumn";
             this.txtColumn.Size = new System.Drawing.Size(297, 21);
             this.txtColumn.TabIndex = 1;
+            this.txtColumn.Visible = false;
             // 
             // label6
             // 
@@ -398,6 +503,7 @@
             this.label6.Size = new System.Drawing.Size(65, 12);
             this.label6.TabIndex = 0;
             this.label6.Text = "TextColumn";
+            this.label6.Visible = false;
             // 
             // txtTable
             // 
@@ -411,9 +517,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(18, 101);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(59, 12);
+            this.label5.Size = new System.Drawing.Size(83, 12);
             this.label5.TabIndex = 0;
-            this.label5.Text = "TextTable";
+            this.label5.Text = "Select String";
             // 
             // txtConnectString
             // 
@@ -463,82 +569,94 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "AppKey";
             // 
-            // tabPage4
+            // linkLabel1
             // 
-            this.tabPage4.Controls.Add(this.txtCarResult);
-            this.tabPage4.Controls.Add(this.label13);
-            this.tabPage4.Controls.Add(this.btnCar);
-            this.tabPage4.Controls.Add(this.imgCar);
-            this.tabPage4.Location = new System.Drawing.Point(4, 22);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(721, 412);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "车型识别";
-            this.tabPage4.UseVisualStyleBackColor = true;
+            this.linkLabel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.Location = new System.Drawing.Point(636, 385);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(65, 12);
+            this.linkLabel1.TabIndex = 12;
+            this.linkLabel1.TabStop = true;
+            this.linkLabel1.Text = "匹配的结果";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
-            // btnCar
+            // linkLabel2
             // 
-            this.btnCar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnCar.Location = new System.Drawing.Point(25, 333);
-            this.btnCar.Name = "btnCar";
-            this.btnCar.Size = new System.Drawing.Size(252, 52);
-            this.btnCar.TabIndex = 1;
-            this.btnCar.Text = "选择图片识别";
-            this.btnCar.UseVisualStyleBackColor = true;
-            this.btnCar.Click += new System.EventHandler(this.btnCar_Click);
+            this.linkLabel2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.linkLabel2.AutoSize = true;
+            this.linkLabel2.Location = new System.Drawing.Point(636, 357);
+            this.linkLabel2.Name = "linkLabel2";
+            this.linkLabel2.Size = new System.Drawing.Size(77, 12);
+            this.linkLabel2.TabIndex = 13;
+            this.linkLabel2.TabStop = true;
+            this.linkLabel2.Text = "批量处理结果";
+            this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked);
             // 
-            // label13
+            // label14
             // 
-            this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(443, 333);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(65, 12);
-            this.label13.TabIndex = 2;
-            this.label13.Text = "识别结果：";
+            this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(424, 373);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(77, 12);
+            this.label14.TabIndex = 11;
+            this.label14.Text = "已批量处理：";
             // 
-            // txtCarResult
+            // labCountTopic
             // 
-            this.txtCarResult.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtCarResult.Location = new System.Drawing.Point(514, 3);
-            this.txtCarResult.Multiline = true;
-            this.txtCarResult.Name = "txtCarResult";
-            this.txtCarResult.Size = new System.Drawing.Size(207, 401);
-            this.txtCarResult.TabIndex = 3;
+            this.labCountTopic.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.labCountTopic.AutoSize = true;
+            this.labCountTopic.Location = new System.Drawing.Point(516, 373);
+            this.labCountTopic.Name = "labCountTopic";
+            this.labCountTopic.Size = new System.Drawing.Size(0, 12);
+            this.labCountTopic.TabIndex = 10;
             // 
-            // pictureBox1
+            // label15
             // 
-            this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.pictureBox1.Image = global::AiTestForTraining.Properties.Resources.微信图片_20180221163013;
-            this.pictureBox1.Location = new System.Drawing.Point(-4, 269);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(174, 79);
-            this.pictureBox1.TabIndex = 4;
-            this.pictureBox1.TabStop = false;
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(18, 179);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(77, 12);
+            this.label15.TabIndex = 3;
+            this.label15.Text = "关键话题阈值";
             // 
-            // pictureBox2
+            // txtTopicLimit
             // 
-            this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox2.Image = global::AiTestForTraining.Properties.Resources.微信图片_20180221163034;
-            this.pictureBox2.Location = new System.Drawing.Point(584, 272);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(137, 76);
-            this.pictureBox2.TabIndex = 5;
-            this.pictureBox2.TabStop = false;
+            this.txtTopicLimit.Location = new System.Drawing.Point(107, 176);
+            this.txtTopicLimit.Name = "txtTopicLimit";
+            this.txtTopicLimit.Size = new System.Drawing.Size(297, 21);
+            this.txtTopicLimit.TabIndex = 4;
+            this.txtTopicLimit.Text = "0.5";
             // 
-            // imgCar
+            // labCatch
             // 
-            this.imgCar.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.imgCar.Image = global::AiTestForTraining.Properties.Resources._1__3_;
-            this.imgCar.Location = new System.Drawing.Point(3, 3);
-            this.imgCar.Name = "imgCar";
-            this.imgCar.Size = new System.Drawing.Size(505, 324);
-            this.imgCar.TabIndex = 0;
-            this.imgCar.TabStop = false;
+            this.labCatch.AutoSize = true;
+            this.labCatch.Font = new System.Drawing.Font("微软雅黑", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labCatch.ForeColor = System.Drawing.Color.Orange;
+            this.labCatch.Location = new System.Drawing.Point(313, 106);
+            this.labCatch.Name = "labCatch";
+            this.labCatch.Size = new System.Drawing.Size(75, 28);
+            this.labCatch.TabIndex = 6;
+            this.labCatch.Text = "匹配！";
+            this.labCatch.Visible = false;
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(3, 206);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(101, 12);
+            this.label16.TabIndex = 3;
+            this.label16.Text = "批量测试间隔时间";
+            // 
+            // txtTestTik
+            // 
+            this.txtTestTik.Location = new System.Drawing.Point(107, 203);
+            this.txtTestTik.Name = "txtTestTik";
+            this.txtTestTik.Size = new System.Drawing.Size(297, 21);
+            this.txtTestTik.TabIndex = 4;
+            this.txtTestTik.Text = "3000";
             // 
             // Form1
             // 
@@ -552,15 +670,15 @@
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
-            this.tabPage3.ResumeLayout(false);
-            this.tabPage3.PerformLayout();
-            this.tabPage2.ResumeLayout(false);
-            this.tabPage2.PerformLayout();
-            this.tabPage4.ResumeLayout(false);
-            this.tabPage4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.tabPage3.ResumeLayout(false);
+            this.tabPage3.PerformLayout();
+            this.tabPage4.ResumeLayout(false);
+            this.tabPage4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.imgCar)).EndInit();
+            this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -610,6 +728,15 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Button btnCar;
         private System.Windows.Forms.PictureBox imgCar;
+        private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.LinkLabel linkLabel2;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label labCountTopic;
+        private System.Windows.Forms.TextBox txtTopicLimit;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label labCatch;
+        private System.Windows.Forms.TextBox txtTestTik;
+        private System.Windows.Forms.Label label16;
     }
 }
 

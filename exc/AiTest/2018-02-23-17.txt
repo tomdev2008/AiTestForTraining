@@ -1,0 +1,2028 @@
+{
+  "log_id": 1501909911089852964,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:07:52]{
+  "log_id": 3751323196999481853,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:08:44]{
+  "log_id": 7783612942896928486,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:07]{
+  "log_id": 6349312342632878640,
+  "text": "18220509353:我这里德邦到不了啊",
+  "items": [
+    {
+      "positive_prob": 0.517551,
+      "confidence": 0.648976,
+      "negative_prob": 0.482449,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:07]{
+  "log_id": 2202486523115832083,
+  "text": "18220509353:哦哦，意思到时候可以转其他的快递送到吗",
+  "items": [
+    {
+      "positive_prob": 0.679189,
+      "confidence": 0.287088,
+      "negative_prob": 0.32081,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:07]{
+  "log_id": 274583870398154994,
+  "text": "18220509353:好吧",
+  "items": [
+    {
+      "positive_prob": 0.668802,
+      "confidence": 0.264004,
+      "negative_prob": 0.331198,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:07]{
+  "log_id": 1596951065029411121,
+  "text": "13817395174:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:07]{
+  "log_id": 1177248303733950083,
+  "text": "15155866677:你好",
+  "items": [
+    {
+      "positive_prob": 0.594302,
+      "confidence": 0.0984478,
+      "negative_prob": 0.405698,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:08]{
+  "log_id": 5506210551558006113,
+  "text": "15155866677:请问宝骏560汽车要换灯泡，换什么样的好",
+  "items": [
+    {
+      "positive_prob": 0.305845,
+      "confidence": 0.320345,
+      "negative_prob": 0.694155,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:08]{
+  "log_id": 587258028731895761,
+  "text": "15155866677:我在途虎登陆时已经上传车型，你们能查到吗",
+  "items": [
+    {
+      "positive_prob": 0.346837,
+      "confidence": 0.229251,
+      "negative_prob": 0.653163,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:08]{
+  "log_id": 7585593987915569510,
+  "text": "15155866677:5015款手动精英版的",
+  "items": [
+    {
+      "positive_prob": 0.448049,
+      "confidence": 0.00433591,
+      "negative_prob": 0.551951,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:08]{
+  "log_id": 4430068202551164134,
+  "text": "15155866677:人呢",
+  "items": [
+    {
+      "positive_prob": 0.660783,
+      "confidence": 0.246185,
+      "negative_prob": 0.339217,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:09]{
+  "log_id": 2066655004111665103,
+  "text": "15155866677:？",
+  "items": [
+    {
+      "positive_prob": 0.408989,
+      "confidence": 0.0911352,
+      "negative_prob": 0.591011,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:09]{
+  "log_id": 4810253175972717435,
+  "text": "15155866677:请推荐，原来的灯光不怎么亮",
+  "items": [
+    {
+      "positive_prob": 0.279171,
+      "confidence": 0.379619,
+      "negative_prob": 0.720829,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:09]{
+  "log_id": 4339181093440596063,
+  "text": "15155866677:？",
+  "items": [
+    {
+      "positive_prob": 0.408989,
+      "confidence": 0.0911352,
+      "negative_prob": 0.591011,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:09]{
+  "log_id": 4598602366595073122,
+  "text": "15155866677:5015款手动精英版的",
+  "items": [
+    {
+      "positive_prob": 0.448049,
+      "confidence": 0.00433591,
+      "negative_prob": 0.551951,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:10]{
+  "log_id": 4345888331554624723,
+  "text": "15155866677:车型:皖K0F858",
+  "items": [
+    {
+      "positive_prob": 0.658347,
+      "confidence": 0.240772,
+      "negative_prob": 0.341653,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:10]{
+  "log_id": 522883832374998023,
+  "text": "客人6012:那还必须从网上订购吗？",
+  "items": [
+    {
+      "positive_prob": 0.203533,
+      "confidence": 0.547704,
+      "negative_prob": 0.796467,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:10]{
+  "log_id": 4552696097788918400,
+  "text": "客人6012:是啊！我需要换个",
+  "items": [
+    {
+      "positive_prob": 0.470253,
+      "confidence": 0.405065,
+      "negative_prob": 0.529747,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:10]{
+  "log_id": 4028509727874153640,
+  "text": "客人6012:意思是我选择店铺，你们给他发货吗？",
+  "items": [
+    {
+      "positive_prob": 0.0902542,
+      "confidence": 0.799435,
+      "negative_prob": 0.909746,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:11]{
+  "log_id": 830957385610963356,
+  "text": "客人6012:哦，哪个店都行吗？",
+  "items": [
+    {
+      "positive_prob": 0.354304,
+      "confidence": 0.212659,
+      "negative_prob": 0.645696,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:11]{
+  "log_id": 5938423419415518801,
+  "text": "客人6012:哦，好吧我知道了，这",
+  "items": [
+    {
+      "positive_prob": 0.612983,
+      "confidence": 0.139961,
+      "negative_prob": 0.387017,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:11]{
+  "log_id": 5771338170143586890,
+  "text": "客人6012:谢谢了，我先去店里一下，到时候联系你",
+  "items": [
+    {
+      "positive_prob": 0.847184,
+      "confidence": 0.660409,
+      "negative_prob": 0.152816,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:11]{
+  "log_id": 1837823385279354498,
+  "text": "客人6012:我去别的店里，他们直接联系你们不就好了吗？",
+  "items": [
+    {
+      "positive_prob": 0.119113,
+      "confidence": 0.735305,
+      "negative_prob": 0.880887,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:11]{
+  "log_id": 3332654569001408721,
+  "text": "客人6012:而且我去了，他们愿意收你们轮胎吗？还免费安装？",
+  "items": [
+    {
+      "positive_prob": 0.0848254,
+      "confidence": 0.811499,
+      "negative_prob": 0.915175,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:12]{
+  "log_id": 4210080892930533036,
+  "text": "客人6012:哦，那邢台哪些店和你们有协议啊？我去找",
+  "items": [
+    {
+      "positive_prob": 0.406704,
+      "confidence": 0.0962125,
+      "negative_prob": 0.593296,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:12]{
+  "log_id": 2285296621970636304,
+  "text": "客人6012:邢台桥西区",
+  "items": [
+    {
+      "positive_prob": 0.499573,
+      "confidence": 0.991459,
+      "negative_prob": 0.500427,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:12]{
+  "log_id": 1496268244506761942,
+  "text": "客人6012:店邢台市中华路与钢铁路交叉口西南角",
+  "items": [
+    {
+      "positive_prob": 0.48267,
+      "confidence": 0.653401,
+      "negative_prob": 0.51733,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:12]{
+  "log_id": 4794022638121541884,
+  "text": "客人6012:店邢台市桥西区新兴西大街",
+  "items": [
+    {
+      "positive_prob": 0.444131,
+      "confidence": 0.0130422,
+      "negative_prob": 0.555869,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:12]{
+  "log_id": 9133647356629487595,
+  "text": "客人6012:店邢台市新兴西大街（永康大厦附近）",
+  "items": [
+    {
+      "positive_prob": 0.528646,
+      "confidence": 0.42709,
+      "negative_prob": 0.471354,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:13]{
+  "log_id": 48226038235182881,
+  "text": "客人6012:店桥西区太行路阳光印象小区",
+  "items": [
+    {
+      "positive_prob": 0.445127,
+      "confidence": 0.010828,
+      "negative_prob": 0.554873,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:13]{
+  "log_id": 8977196402970741808,
+  "text": "客人6012:兴达路那个邓录普专卖没有吗？",
+  "items": [
+    {
+      "positive_prob": 0.126941,
+      "confidence": 0.717908,
+      "negative_prob": 0.873058,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:13]{
+  "log_id": 8338640319739152873,
+  "text": "客人6012:好的，我去看一下谢谢你了",
+  "items": [
+    {
+      "positive_prob": 0.680756,
+      "confidence": 0.29057,
+      "negative_prob": 0.319244,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:13]{
+  "log_id": 3999697779631118791,
+  "text": "客人6012:系统消息",
+  "items": [
+    {
+      "positive_prob": 0.457913,
+      "confidence": 0.15826,
+      "negative_prob": 0.542087,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:13]{
+  "log_id": 6205949299513857859,
+  "text": "13917219880:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:13]{
+  "log_id": 3100809923097000231,
+  "text": "客人1232:",
+  "items": [
+    {
+      "positive_prob": 0.506133,
+      "confidence": 0.877343,
+      "negative_prob": 0.493867,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:14]{
+  "log_id": 7694285790703884667,
+  "text": "18767580268:咨询发起页面信息：<a href=javascript:void(0) onclick=saveFile('https://img3.tuhu.org/Images/Products/1601/0B738299F383E230.jpg@500w_500h_100Q.jpg')>https://img3.tuhu.org/Images/Products/1601/0B738299F383E230.jpg@500w_500h_100Q.jpg</a>",
+  "items": [
+    {
+      "positive_prob": 0.480156,
+      "confidence": 0.603112,
+      "negative_prob": 0.519844,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:14]{
+  "log_id": 3673250365033963066,
+  "text": "18767580268:你好我的单子还没到呢，",
+  "items": [
+    {
+      "positive_prob": 0.460761,
+      "confidence": 0.215216,
+      "negative_prob": 0.539239,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:14]{
+  "log_id": 9008823362955377625,
+  "text": "18767580268:货物已到达宁波转运中心",
+  "items": [
+    {
+      "positive_prob": 0.602872,
+      "confidence": 0.117493,
+      "negative_prob": 0.397128,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:14]{
+  "log_id": 8121423024343718273,
+  "text": "18767580268:2018.01.28",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:14]{
+  "log_id": 8870026708086885217,
+  "text": "18767580268:运输中，离开【杭州转运场】，下一站【宁波转运中心】",
+  "items": [
+    {
+      "positive_prob": 0.681129,
+      "confidence": 0.291397,
+      "negative_prob": 0.318872,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:14]{
+  "log_id": 6642641495204044933,
+  "text": "18767580268:2018.01.27",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:15]{
+  "log_id": 4024535846146637752,
+  "text": "18767580268:货物已到达杭州转运场",
+  "items": [
+    {
+      "positive_prob": 0.602368,
+      "confidence": 0.116373,
+      "negative_prob": 0.397632,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:15]{
+  "log_id": 8165739476946619121,
+  "text": "18767580268:地址没错吧怎么跑宁波去了",
+  "items": [
+    {
+      "positive_prob": 0.390835,
+      "confidence": 0.131479,
+      "negative_prob": 0.609165,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:15]{
+  "log_id": 7130876004180960909,
+  "text": "13325990350:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:15]{
+  "log_id": 5396635590356948293,
+  "text": "15813226694:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:15]{
+  "log_id": 9021376209718477912,
+  "text": "13716750753:225/55R17 97Y 轮胎",
+  "items": [
+    {
+      "positive_prob": 0.406418,
+      "confidence": 0.0968493,
+      "negative_prob": 0.593582,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:15]{
+  "log_id": 2404470829921138545,
+  "text": "13716750753:倍耐力",
+  "items": [
+    {
+      "positive_prob": 0.580306,
+      "confidence": 0.0673465,
+      "negative_prob": 0.419694,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:15]{
+  "log_id": 1888273689025732470,
+  "text": "13716750753:怎么没有呢？",
+  "items": [
+    {
+      "positive_prob": 0.213441,
+      "confidence": 0.525686,
+      "negative_prob": 0.786559,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:16]{
+  "log_id": 1779562402931083716,
+  "text": "13716750753:对呀",
+  "items": [
+    {
+      "positive_prob": 0.569451,
+      "confidence": 0.0432246,
+      "negative_prob": 0.430549,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:16]{
+  "log_id": 3593624518378317285,
+  "text": "13716750753:我没找到",
+  "items": [
+    {
+      "positive_prob": 0.510468,
+      "confidence": 0.790648,
+      "negative_prob": 0.489532,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:16]{
+  "log_id": 4962531403666830281,
+  "text": "13716750753:不清楚 ",
+  "items": [
+    {
+      "positive_prob": 0.464823,
+      "confidence": 0.296462,
+      "negative_prob": 0.535177,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:16]{
+  "log_id": 6918644733306109141,
+  "text": "13716750753:图片消息：&nbsp;<img src='https://store.ntalker.com/func/imagetrans/image2.php?f=quY2IdMz3PBDA/peGWWRZ78ku8wrRG/jKg&q=r+dndYBk3/oaQr4WEHuNLe5g7Y1oCWC9I8eh+DGEXEyRfj9MpszGHlcykFG9mai1cCe8/6sey10WcBcZlqVYT2JnLGHPRBofcsw9dS/Lrt9Muqtojp0gl+PRcEHMpy294/6PePvjxrZz99f3nJTXfP8fzYexeMMRGZgc'><br />size:67.42 KB",
+  "items": [
+    {
+      "positive_prob": 0.381651,
+      "confidence": 0.151887,
+      "negative_prob": 0.618349,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:16]{
+  "log_id": 4586336571161193874,
+  "text": "13716750753:就这个",
+  "items": [
+    {
+      "positive_prob": 0.545576,
+      "confidence": 0.0884795,
+      "negative_prob": 0.454424,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:16]{
+  "log_id": 2199215312557513161,
+  "text": "13716750753:等等啊",
+  "items": [
+    {
+      "positive_prob": 0.655617,
+      "confidence": 0.234705,
+      "negative_prob": 0.344383,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:17]{
+  "log_id": 7494695196145459870,
+  "text": "13716750753:防爆与否有何影响",
+  "items": [
+    {
+      "positive_prob": 0.449466,
+      "confidence": 0.00118666,
+      "negative_prob": 0.550534,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:17]{
+  "log_id": 6869453224136377822,
+  "text": "13716750753:价格吗",
+  "items": [
+    {
+      "positive_prob": 0.380852,
+      "confidence": 0.153661,
+      "negative_prob": 0.619148,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:17]{
+  "log_id": 7835151235152993716,
+  "text": "13716750753:图片消息：&nbsp;<img src='https://store.ntalker.com/func/imagetrans/image2.php?f=+LAxd4Zh2/FDA/peGWWWb78ktMAuRG/jKg&q=/rZhI9s1iq4aQr4WEHuNLe5g7Y1oCWC9I8eh+DGEXEyRfj9MpszGHlcykFG9mai1cCe8/6sey10WcBcZlqVYT2JnLGHPRBofcsw9dSSerd9P5Kxu3phwnLKHfRfFpnzpv/yPdvaywrByrYOinJTXfP8fyo+xdsMRGZgc'><br />size:61.7 KB",
+  "items": [
+    {
+      "positive_prob": 0.372452,
+      "confidence": 0.172329,
+      "negative_prob": 0.627548,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:17]{
+  "log_id": 9210420851716370480,
+  "text": "13716750753:再完整的没有需要特意去拍",
+  "items": [
+    {
+      "positive_prob": 0.327327,
+      "confidence": 0.272606,
+      "negative_prob": 0.672673,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:17]{
+  "log_id": 2064621692051674984,
+  "text": "13716750753:要换三个轮胎",
+  "items": [
+    {
+      "positive_prob": 0.300819,
+      "confidence": 0.331514,
+      "negative_prob": 0.699181,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:17]{
+  "log_id": 6176778025616715684,
+  "text": "13716750753:要整个轮胎吗",
+  "items": [
+    {
+      "positive_prob": 0.218192,
+      "confidence": 0.515129,
+      "negative_prob": 0.781808,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:17]{
+  "log_id": 2443831639257819217,
+  "text": "13716750753:好 改天去拍",
+  "items": [
+    {
+      "positive_prob": 0.826825,
+      "confidence": 0.615166,
+      "negative_prob": 0.173175,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:18]{
+  "log_id": 605861542895803604,
+  "text": "15989009398:亲在吗",
+  "items": [
+    {
+      "positive_prob": 0.346322,
+      "confidence": 0.230396,
+      "negative_prob": 0.653678,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:18]{
+  "log_id": 6791292437520681408,
+  "text": "15989009398:发送图片：&nbsp;<img src='http://statics.ntalker.com/filetransfer/20180205/kf_9739/a9d41bf9e69af0f485e21060851eacb71517794519_thumb.jpg?fn=a9d41bf9e69af0f485e21060851eacb71517794519.jpg'><br />大小：50.04 KB",
+  "items": [
+    {
+      "positive_prob": 0.559404,
+      "confidence": 0.0208979,
+      "negative_prob": 0.440596,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:18]{
+  "log_id": 5981117093855715158,
+  "text": "15989009398:这个订单我已经支付了",
+  "items": [
+    {
+      "positive_prob": 0.382555,
+      "confidence": 0.149878,
+      "negative_prob": 0.617445,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:18]{
+  "log_id": 6351595869179926262,
+  "text": "15989009398:请问师傅什么时候能来安装呢",
+  "items": [
+    {
+      "positive_prob": 0.632631,
+      "confidence": 0.183625,
+      "negative_prob": 0.367369,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:18]{
+  "log_id": 7482045985967894151,
+  "text": "15989009398:那么现在我就等电话就行了是吗",
+  "items": [
+    {
+      "positive_prob": 0.34489,
+      "confidence": 0.233578,
+      "negative_prob": 0.65511,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:18]{
+  "log_id": 3225504226873685881,
+  "text": "15989009398:好的谢谢你",
+  "items": [
+    {
+      "positive_prob": 0.798816,
+      "confidence": 0.552925,
+      "negative_prob": 0.201184,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:19]{
+  "log_id": 8171098259148871225,
+  "text": "15989009398:安装的挡风玻璃 还有自动感应雨刷吧",
+  "items": [
+    {
+      "positive_prob": 0.520011,
+      "confidence": 0.599779,
+      "negative_prob": 0.479989,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:19]{
+  "log_id": 482284312258777935,
+  "text": "15989009398:我原来是有自动感应雨刷的，换了你们的玻璃，还是要保留自动感应的",
+  "items": [
+    {
+      "positive_prob": 0.557593,
+      "confidence": 0.0168729,
+      "negative_prob": 0.442407,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:19]{
+  "log_id": 2614652182152974886,
+  "text": "15989009398:好的",
+  "items": [
+    {
+      "positive_prob": 0.80487,
+      "confidence": 0.566378,
+      "negative_prob": 0.19513,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:19]{
+  "log_id": 1209092792634691067,
+  "text": "15989009398:应该先确认好价格吧，1099的玻璃包不包括自动感应雨刷，还是应该先让客户知道啊",
+  "items": [
+    {
+      "positive_prob": 0.495948,
+      "confidence": 0.918963,
+      "negative_prob": 0.504052,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:19]{
+  "log_id": 3256595511824943242,
+  "text": "15989009398:我原来的自动感应雨刷 还能用吧",
+  "items": [
+    {
+      "positive_prob": 0.520934,
+      "confidence": 0.581314,
+      "negative_prob": 0.479066,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:19]{
+  "log_id": 3141642643100477242,
+  "text": "15989009398:是奥迪q5 2012款的",
+  "items": [
+    {
+      "positive_prob": 0.574445,
+      "confidence": 0.0543225,
+      "negative_prob": 0.425555,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:19]{
+  "log_id": 5776099965527017359,
+  "text": "13068042697:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:20]{
+  "log_id": 1190248826096682830,
+  "text": "小程序72736:在线咨询",
+  "items": [
+    {
+      "positive_prob": 0.570506,
+      "confidence": 0.0455679,
+      "negative_prob": 0.429494,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:20]{
+  "log_id": 4712556225978649407,
+  "text": "小程序72736:在？",
+  "items": [
+    {
+      "positive_prob": 0.36029,
+      "confidence": 0.199357,
+      "negative_prob": 0.63971,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:20]{
+  "log_id": 5593828893315606219,
+  "text": "小程序72736:在线咨询",
+  "items": [
+    {
+      "positive_prob": 0.570506,
+      "confidence": 0.0455679,
+      "negative_prob": 0.429494,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:20]{
+  "log_id": 4634659216022227497,
+  "text": "小程序72736:轮胎已经安装完毕，请联系门店确认安装了",
+  "items": [
+    {
+      "positive_prob": 0.253315,
+      "confidence": 0.437077,
+      "negative_prob": 0.746685,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:20]{
+  "log_id": 5029620954602639474,
+  "text": "小程序72736:这应该你们做的",
+  "items": [
+    {
+      "positive_prob": 0.386493,
+      "confidence": 0.141127,
+      "negative_prob": 0.613507,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:20]{
+  "log_id": 3328586917294301502,
+  "text": "18163586789:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:21]{
+  "log_id": 7750259593595566562,
+  "text": "13290209783:在吗",
+  "items": [
+    {
+      "positive_prob": 0.37901,
+      "confidence": 0.157754,
+      "negative_prob": 0.62099,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:21]{
+  "log_id": 2934154983592644247,
+  "text": "13290209783:我的车险单怎么还收不到呢",
+  "items": [
+    {
+      "positive_prob": 0.411346,
+      "confidence": 0.0858982,
+      "negative_prob": 0.588654,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:21]{
+  "log_id": 588063820181787597,
+  "text": "13343466966:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:21]{
+  "log_id": 2896142703551536802,
+  "text": "18678468665:你好，我定的轮胎不要了。麻烦你退了吧。",
+  "items": [
+    {
+      "positive_prob": 0.0739641,
+      "confidence": 0.835635,
+      "negative_prob": 0.926036,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:21]{
+  "log_id": 2493991545445810904,
+  "text": "18678468665:车卖了",
+  "items": [
+    {
+      "positive_prob": 0.482525,
+      "confidence": 0.650503,
+      "negative_prob": 0.517475,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:21]{
+  "log_id": 1490638377517036767,
+  "text": "18678468665:对不起，年前缺钱车卖了。",
+  "items": [
+    {
+      "positive_prob": 0.107283,
+      "confidence": 0.761593,
+      "negative_prob": 0.892717,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:22]{
+  "log_id": 3301827440301200044,
+  "text": "18678468665:谢谢了",
+  "items": [
+    {
+      "positive_prob": 0.770895,
+      "confidence": 0.490877,
+      "negative_prob": 0.229105,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:22]{
+  "log_id": 4585920518119901400,
+  "text": "客人8493:",
+  "items": [
+    {
+      "positive_prob": 0.503634,
+      "confidence": 0.927319,
+      "negative_prob": 0.496366,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:22]{
+  "log_id": 472274409143624894,
+  "text": "13848009869:轮胎质量怎么样啊",
+  "items": [
+    {
+      "positive_prob": 0.310548,
+      "confidence": 0.309893,
+      "negative_prob": 0.689452,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:22]{
+  "log_id": 1241311445309882518,
+  "text": "13848009869:和原装轮胎有什么区别呢？",
+  "items": [
+    {
+      "positive_prob": 0.331916,
+      "confidence": 0.262409,
+      "negative_prob": 0.668084,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:22]{
+  "log_id": 2778947286402443375,
+  "text": "13848009869:一般多久换一次轮胎呀",
+  "items": [
+    {
+      "positive_prob": 0.103159,
+      "confidence": 0.770758,
+      "negative_prob": 0.896841,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:22]{
+  "log_id": 3463557220233764931,
+  "text": "13848009869:我只能看见是",
+  "items": [
+    {
+      "positive_prob": 0.35792,
+      "confidence": 0.204622,
+      "negative_prob": 0.64208,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:22]{
+  "log_id": 7627690592128043790,
+  "text": "13848009869:linglong",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:23]{
+  "log_id": 9039488907440634920,
+  "text": "13848009869:其他的看哪呀",
+  "items": [
+    {
+      "positive_prob": 0.595069,
+      "confidence": 0.100154,
+      "negative_prob": 0.404931,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:23]{
+  "log_id": 5037713496504975219,
+  "text": "13848009869:比如",
+  "items": [
+    {
+      "positive_prob": 0.560746,
+      "confidence": 0.0238807,
+      "negative_prob": 0.439254,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:23]{
+  "log_id": 3045705676143509294,
+  "text": "13848009869:我去拍照去了",
+  "items": [
+    {
+      "positive_prob": 0.587999,
+      "confidence": 0.0844414,
+      "negative_prob": 0.412001,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:23]{
+  "log_id": 3493011695045165525,
+  "text": "13848009869:图片消息：&nbsp;<img src='https://store.ntalker.com/func/imagetrans/image2.php?f=qLY1I4MwifxDA/pRE2KbbL0rtMkrRG/jKg&q=q7swI9Fii/EaQr4WEHuNLe5g7Y1oCWC9I8eh+DGEXEyRfj9MpszGHlcykFG9mai1cCe8/6sey10WcBcZlqVYT2JnIGHPRBofcsw9dSzOqIkdu/5pjpl3nbPTdheS8X3r56zbcPa8ybN98YDynJTXc/UYx4yyf8MRGZgc'><br />size:252.05 KB",
+  "items": [
+    {
+      "positive_prob": 0.381651,
+      "confidence": 0.151887,
+      "negative_prob": 0.618349,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:23]{
+  "log_id": 6665869172887337368,
+  "text": "13848009869:图片消息：&nbsp;<img src='https://store.ntalker.com/func/imagetrans/image2.php?f=rrRgI4RniPxDA/pRE2KbZ7sitcEsRG/jKg&q=qeMxJ9Nh3qkaQr4WEHuNLe5g7Y1oCWC9I8eh+DGEXEyRfj9MpszGHlcykFG9mai1cCe8/6sey10WcBcZlqVYT2JnIGHPRBofcsw9dS3I+4VJtK4+2pQlmbfVJRKWp3DrsqmMdKGxyeAv9oKjnJTXc/UYx4a1eMMRGZgc'><br />size:228.08 KB",
+  "items": [
+    {
+      "positive_prob": 0.37249,
+      "confidence": 0.172245,
+      "negative_prob": 0.62751,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:24]{
+  "log_id": 7347687864793057006,
+  "text": "13848009869:这个车的原装轮胎还有别的牌子的都可以是吧",
+  "items": [
+    {
+      "positive_prob": 0.483832,
+      "confidence": 0.676635,
+      "negative_prob": 0.516168,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:24]{
+  "log_id": 4540053166836320386,
+  "text": "13848009869:有什么优惠吗",
+  "items": [
+    {
+      "positive_prob": 0.418591,
+      "confidence": 0.069798,
+      "negative_prob": 0.581409,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:24]{
+  "log_id": 1297442562795035683,
+  "text": "13848009869:轮胎保一年",
+  "items": [
+    {
+      "positive_prob": 0.375267,
+      "confidence": 0.166073,
+      "negative_prob": 0.624733,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:24]{
+  "log_id": 6928470247550868777,
+  "text": "小程序63131:在线咨询",
+  "items": [
+    {
+      "positive_prob": 0.570506,
+      "confidence": 0.0455679,
+      "negative_prob": 0.429494,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:24]{
+  "log_id": 8294327790125174315,
+  "text": "13801980322:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:24]{
+  "log_id": 8688746267674331842,
+  "text": "客人9807:咨询发起页面信息：<a href=javascript:void(0) onclick=saveFile('https://item.tuhu.cn/Products/TR-BS-HLALENZA/1.html')>https://item.tuhu.cn/Products/TR-BS-HLALENZA/1.html</a>",
+  "items": [
+    {
+      "positive_prob": 0.395492,
+      "confidence": 0.121128,
+      "negative_prob": 0.604508,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:25]{
+  "log_id": 2537230607066983,
+  "text": "客人9807:系统消息",
+  "items": [
+    {
+      "positive_prob": 0.457913,
+      "confidence": 0.15826,
+      "negative_prob": 0.542087,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:25]{
+  "log_id": 2117895762239420772,
+  "text": "客人9807:你好，普利司通轮胎 动力侠 H/L ALENZA 255/55R20 107H 轮胎订货什么时候可以安装",
+  "items": [
+    {
+      "positive_prob": 0.503397,
+      "confidence": 0.93206,
+      "negative_prob": 0.496603,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:25]{
+  "log_id": 3579296461577554301,
+  "text": "客人9807:1) 产品咨询；",
+  "items": [
+    {
+      "positive_prob": 0.569155,
+      "confidence": 0.042567,
+      "negative_prob": 0.430845,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:25]{
+  "log_id": 2063698473755476057,
+  "text": "客人9807:2) 产品订购；",
+  "items": [
+    {
+      "positive_prob": 0.595371,
+      "confidence": 0.100824,
+      "negative_prob": 0.404629,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:25]{
+  "log_id": 4796197075425307467,
+  "text": "客人9807:3) 投诉与建议；",
+  "items": [
+    {
+      "positive_prob": 0.139309,
+      "confidence": 0.690424,
+      "negative_prob": 0.860691,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:25]{
+  "log_id": 6809810886036534233,
+  "text": "客人9807:4) 订单修改或取消；",
+  "items": [
+    {
+      "positive_prob": 0.302961,
+      "confidence": 0.326753,
+      "negative_prob": 0.697039,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:26]{
+  "log_id": 5238081478894631573,
+  "text": "客人9807:5) 活动咨询；",
+  "items": [
+    {
+      "positive_prob": 0.706345,
+      "confidence": 0.347434,
+      "negative_prob": 0.293655,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:26]{
+  "log_id": 9159889409959909613,
+  "text": "客人9807:6) 物流及订单状态查询；",
+  "items": [
+    {
+      "positive_prob": 0.554901,
+      "confidence": 0.0108922,
+      "negative_prob": 0.445098,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:26]{
+  "log_id": 7825189842292027605,
+  "text": "客人9807:7) 发票查询；",
+  "items": [
+    {
+      "positive_prob": 0.439084,
+      "confidence": 0.0242574,
+      "negative_prob": 0.560916,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:26]{
+  "log_id": 5408578355777750748,
+  "text": "客人9807:8) 门店咨询；",
+  "items": [
+    {
+      "positive_prob": 0.665763,
+      "confidence": 0.257252,
+      "negative_prob": 0.334237,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:26]{
+  "log_id": 7584334731796937425,
+  "text": "季伟:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:27]{
+  "log_id": 2801081600821159750,
+  "text": "小程序74827:在线咨询",
+  "items": [
+    {
+      "positive_prob": 0.570506,
+      "confidence": 0.0455679,
+      "negative_prob": 0.429494,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:27]{
+  "log_id": 9059939210383652732,
+  "text": "小程序74827:我订的4条轮胎到货没有",
+  "items": [
+    {
+      "positive_prob": 0.294739,
+      "confidence": 0.345024,
+      "negative_prob": 0.705261,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:27]{
+  "log_id": 6338953885336751890,
+  "text": "小程序74827:谢谢你",
+  "items": [
+    {
+      "positive_prob": 0.627468,
+      "confidence": 0.172151,
+      "negative_prob": 0.372532,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:27]{
+  "log_id": 3334573993419152328,
+  "text": "17355500837:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:27]{
+  "log_id": 8034369171237384652,
+  "text": "18200228235:你好",
+  "items": [
+    {
+      "positive_prob": 0.594302,
+      "confidence": 0.0984478,
+      "negative_prob": 0.405698,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:27]{
+  "log_id": 869788593447890081,
+  "text": "18200228235:这款包安装不",
+  "items": [
+    {
+      "positive_prob": 0.296248,
+      "confidence": 0.341671,
+      "negative_prob": 0.703752,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:28]{
+  "log_id": 7457571904292503358,
+  "text": "18200228235:我车子带倒车影像的 ",
+  "items": [
+    {
+      "positive_prob": 0.606713,
+      "confidence": 0.126028,
+      "negative_prob": 0.393287,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:28]{
+  "log_id": 2127379954783097816,
+  "text": "18200228235:可以用这款不？",
+  "items": [
+    {
+      "positive_prob": 0.377199,
+      "confidence": 0.16178,
+      "negative_prob": 0.622801,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:28]{
+  "log_id": 2749998733098854143,
+  "text": "18200228235:那个降压线 是有什么用呢？",
+  "items": [
+    {
+      "positive_prob": 0.340148,
+      "confidence": 0.244115,
+      "negative_prob": 0.659852,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:28]{
+  "log_id": 5342849610204024105,
+  "text": "18200228235:意思有这个降压线 可以24小时监控？",
+  "items": [
+    {
+      "positive_prob": 0.337536,
+      "confidence": 0.24992,
+      "negative_prob": 0.662464,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:28]{
+  "log_id": 154934365921859271,
+  "text": "18200228235:意思 也不是24小时监控 也不是一直在用电嘛 就是有外界碰撞 才会启动对吧",
+  "items": [
+    {
+      "positive_prob": 0.135693,
+      "confidence": 0.698461,
+      "negative_prob": 0.864307,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:28]{
+  "log_id": 1252733597183552655,
+  "text": "18200228235:这也 车子电瓶不会亏电吧",
+  "items": [
+    {
+      "positive_prob": 0.121822,
+      "confidence": 0.729284,
+      "negative_prob": 0.878178,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:29]{
+  "log_id": 6104905965209132353,
+  "text": "18200228235:发送图片：&nbsp;<img src='http://statics.ntalker.com/filetransfer/20180204/kf_9739/5d2af95934190728fa0f67f56d37c2141517737683_thumb.jpg?fn=5d2af95934190728fa0f67f56d37c2141517737683.jpg'><br />大小：55.62 KB",
+  "items": [
+    {
+      "positive_prob": 0.559404,
+      "confidence": 0.0208979,
+      "negative_prob": 0.440596,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:29]{
+  "log_id": 2891339775970304101,
+  "text": "18200228235:409是包含了安装费的吧",
+  "items": [
+    {
+      "positive_prob": 0.389718,
+      "confidence": 0.13396,
+      "negative_prob": 0.610282,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:29]{
+  "log_id": 5738803822879562480,
+  "text": "18200228235:我还在你们店铺买了其它东西 可以在一个地方安装不？",
+  "items": [
+    {
+      "positive_prob": 0.140289,
+      "confidence": 0.688246,
+      "negative_prob": 0.859711,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:29]{
+  "log_id": 4240514044979974638,
+  "text": "18200228235:装这个 不会破线吧？",
+  "items": [
+    {
+      "positive_prob": 0.0567085,
+      "confidence": 0.873981,
+      "negative_prob": 0.943291,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:29]{
+  "log_id": 2592918480690887385,
+  "text": "18200228235:好的 那我下单了",
+  "items": [
+    {
+      "positive_prob": 0.530602,
+      "confidence": 0.387955,
+      "negative_prob": 0.469398,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:29]{
+  "log_id": 4475200237316492542,
+  "text": "13927733901:咨询发起页面信息：<a href=javascript:void(0) onclick=saveFile('https://img1.tuhu.org/Images/Products/21a4/52fa/7184e9ac9d02df04a2718072_w800_h800.jpg@500w_500h_100Q.jpg')>https://img1.tuhu.org/Images/Products/21a4/52fa/7184e9ac9d02df04a2718072_w800_h800.jpg@500w_500h_100Q.jpg</a>",
+  "items": [
+    {
+      "positive_prob": 0.491049,
+      "confidence": 0.820971,
+      "negative_prob": 0.508951,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:30]{
+  "log_id": 1826161086660365420,
+  "text": "13927733901:在吗？",
+  "items": [
+    {
+      "positive_prob": 0.254563,
+      "confidence": 0.434305,
+      "negative_prob": 0.745437,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:30]{
+  "log_id": 1514111082638032481,
+  "text": "13927733901:产品不适配，退款少了",
+  "items": [
+    {
+      "positive_prob": 0.0642614,
+      "confidence": 0.857197,
+      "negative_prob": 0.935739,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:30]{
+  "log_id": 4262365563437815415,
+  "text": "13974435601:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:30]{
+  "log_id": 8606940429154849423,
+  "text": "18695112524:",
+  "items": [
+    {
+      "positive_prob": 0.578396,
+      "confidence": 0.0631024,
+      "negative_prob": 0.421604,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:30]{
+  "log_id": 7198312937380618525,
+  "text": "客人2704:您好，我是虎妹，很高兴为您服务~",
+  "items": [
+    {
+      "positive_prob": 0.753789,
+      "confidence": 0.452865,
+      "negative_prob": 0.246211,
+      "sentiment": 2
+    }
+  ]
+}
+[17:10:31]{
+  "log_id": 7944573672177927909,
+  "text": "客人2704:您是不是要咨询下面的问题？",
+  "items": [
+    {
+      "positive_prob": 0.161115,
+      "confidence": 0.641967,
+      "negative_prob": 0.838885,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:31]{
+  "log_id": 4689128987091450050,
+  "text": "客人2704:[1] 确认轮胎品牌、尺寸、花纹",
+  "items": [
+    {
+      "positive_prob": 0.348245,
+      "confidence": 0.226122,
+      "negative_prob": 0.651755,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:31]{
+  "log_id": 8913422676471280550,
+  "text": "客人2704:[2] 轮胎、保养安装问题",
+  "items": [
+    {
+      "positive_prob": 0.280201,
+      "confidence": 0.37733,
+      "negative_prob": 0.719799,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:31]{
+  "log_id": 7789481546146406980,
+  "text": "客人2704:[3] 发货时间",
+  "items": [
+    {
+      "positive_prob": 0.479402,
+      "confidence": 0.588047,
+      "negative_prob": 0.520598,
+      "sentiment": 1
+    }
+  ]
+}
+[17:10:31]{
+  "log_id": 5296670861831539982,
+  "text": "客人2704:[4] 如何开具发票",
+  "items": [
+    {
+      "positive_prob": 0.406883,
+      "confidence": 0.0958165,
+      "negative_prob": 0.593117,
+      "sentiment": 0
+    }
+  ]
+}
+[17:10:31]{
+  "log_id": 93654745766093656,
+  "text": "客人2704:[5] 支付问题",
+  "items": [
+    {
+      "positive_prob": 0.512263,
+      "confidence": 0.75475,
+      "negative_prob": 0.487738,
+      "sentiment": 1
+    }
+  ]
+}
+[17:12:05]{
+  "log_id": 7506206507447884513,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:13:47]{
+  "log_id": 2319521971035701832,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:23:02]{
+  "log_id": 2093883891065496212,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:29:33]{
+  "log_id": 6389912307914720634,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:31:54]{
+  "log_id": 2706278524949426385,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:33:16]{
+  "log_id": 2722660359380588355,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:33:24]{
+  "log_id": 7731745682166419104,
+  "text": "d9feef3d37bc41e8bd4705:[3] 发货时间",
+  "items": [
+    {
+      "positive_prob": 0.534415,
+      "confidence": 0.311695,
+      "negative_prob": 0.465585,
+      "sentiment": 1
+    }
+  ]
+}
+[17:33:26]{
+  "log_id": 5669922773588914646,
+  "text": "d9feef3d37bc41e8bd4705:[4] 如何开具发票",
+  "items": [
+    {
+      "positive_prob": 0.460833,
+      "confidence": 0.216664,
+      "negative_prob": 0.539167,
+      "sentiment": 1
+    }
+  ]
+}
+[17:33:28]{
+  "log_id": 472183850323580857,
+  "text": "d9feef3d37bc41e8bd4705:[5] 支付问题",
+  "items": [
+    {
+      "positive_prob": 0.571774,
+      "confidence": 0.0483871,
+      "negative_prob": 0.428226,
+      "sentiment": 2
+    }
+  ]
+}
+[17:33:31]{
+  "log_id": 1502686463083288861,
+  "text": "d9feef3d37bc41e8bd4705:[6] 订单修改或取消",
+  "items": [
+    {
+      "positive_prob": 0.369174,
+      "confidence": 0.179613,
+      "negative_prob": 0.630826,
+      "sentiment": 0
+    }
+  ]
+}
+[17:35:51]{
+  "log_id": 946372425117407349,
+  "text": "欢迎光临，我是贴心的智能助理虎妞，客服哥哥姐姐们都在忙碌接待中，为了减少亲的等待，将由我来先为亲服务！到店安装怎么弄呢?有什么活动吗轮毂适合我的车选择哪种有没有货在的呢，有什么可以帮您的吗？ ",
+  "items": [
+    {
+      "positive_prob": 0.923766,
+      "confidence": 0.830591,
+      "negative_prob": 0.0762341,
+      "sentiment": 2
+    }
+  ]
+}
+[17:36:47]{
+  "log_id": 5159261505258076002,
+  "text": "d9feef3d37bc41e8bd4705:[3] 发货时间",
+  "items": [
+    {
+      "positive_prob": 0.534415,
+      "confidence": 0.311695,
+      "negative_prob": 0.465585,
+      "sentiment": 1
+    }
+  ]
+}
+[17:36:49]{
+  "log_id": 4738492871244806493,
+  "text": "d9feef3d37bc41e8bd4705:[4] 如何开具发票",
+  "items": [
+    {
+      "positive_prob": 0.460833,
+      "confidence": 0.216664,
+      "negative_prob": 0.539167,
+      "sentiment": 1
+    }
+  ]
+}
+[17:36:51]{
+  "log_id": 4277202187648495624,
+  "text": "d9feef3d37bc41e8bd4705:[5] 支付问题",
+  "items": [
+    {
+      "positive_prob": 0.571774,
+      "confidence": 0.0483871,
+      "negative_prob": 0.428226,
+      "sentiment": 2
+    }
+  ]
+}
+[17:36:53]{
+  "log_id": 8932435701716534608,
+  "text": "d9feef3d37bc41e8bd4705:[6] 订单修改或取消",
+  "items": [
+    {
+      "positive_prob": 0.369174,
+      "confidence": 0.179613,
+      "negative_prob": 0.630826,
+      "sentiment": 0
+    }
+  ]
+}
+[17:36:56]{
+  "log_id": 1630989274780777076,
+  "text": "d9feef3d37bc41e8bd4705:[7] 已有订单物流查询",
+  "items": [
+    {
+      "positive_prob": 0.496926,
+      "confidence": 0.93851,
+      "negative_prob": 0.503075,
+      "sentiment": 1
+    }
+  ]
+}
+[17:36:58]{
+  "log_id": 7725822097630821936,
+  "text": "d9feef3d37bc41e8bd4705:[8] 轮胎险",
+  "items": [
+    {
+      "positive_prob": 0.466503,
+      "confidence": 0.330068,
+      "negative_prob": 0.533497,
+      "sentiment": 1
+    }
+  ]
+}
+[17:37:00]{
+  "log_id": 8303288409958428338,
+  "text": "小程序50950:在线咨询",
+  "items": [
+    {
+      "positive_prob": 0.570506,
+      "confidence": 0.0455679,
+      "negative_prob": 0.429494,
+      "sentiment": 2
+    }
+  ]
+}
+[17:37:02]{
+  "log_id": 3646391549667444351,
+  "text": "18771622750:你好，途虎买的4只轮胎在实体店安装后，是否免费做四轮定位",
+  "items": [
+    {
+      "positive_prob": 0.390423,
+      "confidence": 0.132393,
+      "negative_prob": 0.609577,
+      "sentiment": 0
+    }
+  ]
+}
+[17:37:04]{
+  "log_id": 3541027758508699010,
+  "text": "18771622750:在途虎平台上购买四轮定位服务只要99元是吗",
+  "items": [
+    {
+      "positive_prob": 0.492946,
+      "confidence": 0.858928,
+      "negative_prob": 0.507054,
+      "sentiment": 1
+    }
+  ]
+}
+[17:37:07]{
+  "log_id": 6127896277502520934,
+  "text": "程珂:咨询发起页面信息：<a href=javascript:void(0) onclick=saveFile('https://item.tuhu.cn/Tires/1/au1-f0-b80-a55-r16-w205-vVE_SKSV07AH.html')>https://item.tuhu.cn/Tires/1/au1-f0-b80-a55-r16-w205-vVE_SKSV07AH.html</a>",
+  "items": [
+    {
+      "positive_prob": 0.441978,
+      "confidence": 0.0178274,
+      "negative_prob": 0.558022,
+      "sentiment": 0
+    }
+  ]
+}
+[17:37:09]{
+  "log_id": 6730729625828869714,
+  "text": "程珂:您好，我是虎妹，很高兴为您服务~",
+  "items": [
+    {
+      "positive_prob": 0.804285,
+      "confidence": 0.565077,
+      "negative_prob": 0.195715,
+      "sentiment": 2
+    }
+  ]
+}
+[17:37:11]{
+  "log_id": 1921354584997920580,
+  "text": "程珂:您是不是要咨询下面的问题？",
+  "items": [
+    {
+      "positive_prob": 0.191729,
+      "confidence": 0.573936,
+      "negative_prob": 0.808271,
+      "sentiment": 0
+    }
+  ]
+}
+[17:37:13]{
+  "log_id": 2743937847575928167,
+  "text": "程珂:[1] 确认轮胎品牌、尺寸、花纹",
+  "items": [
+    {
+      "positive_prob": 0.400945,
+      "confidence": 0.109011,
+      "negative_prob": 0.599055,
+      "sentiment": 0
+    }
+  ]
+}

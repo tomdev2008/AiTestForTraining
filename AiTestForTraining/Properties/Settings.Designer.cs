@@ -94,5 +94,29 @@ namespace AiTestForTraining.Properties {
                 this["OverLoad"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("0.5")]
+        public string TopicLimit {
+            get {
+                return ((string)(this["TopicLimit"]));
+            }
+            set {
+                this["TopicLimit"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("2000")]
+        public string TestTik {
+            get {
+                return ((string)(this["TestTik"]));
+            }
+            set {
+                this["TestTik"] = value;
+            }
+        }
     }
 }

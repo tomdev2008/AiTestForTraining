@@ -20,5 +20,11 @@
     <Setting Name="OverLoad" Type="System.String" Scope="User">
       <Value Profile="(Default)">20</Value>
     </Setting>
+    <Setting Name="TopicLimit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="TestTik" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
